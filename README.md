@@ -1,2 +1,2 @@
 
-hello! I'm SlimeBlob! i like to code stuff
+hello! I'm SlimeBlob! i like programming.
